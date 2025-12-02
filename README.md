@@ -5,9 +5,13 @@ Simulador de Gestión de Memoria (RAM y Swap)
 Este proyecto consiste en un simulador de gestor de memoria para Sistemas Operativos, implementando técnicas de paginación, memoria virtual (Swapping) y traducción de direcciones.
 
 Integrantes del Equipo:
+
 -Argüelles Obregón René
+
 -Rocha Coronado Carlos Julián
+
 -Rodriguez Hernández Juan Julián
+
 -Terán Ramírez Leonardo Alonso
 
 Instrucciones de Compilación y Ejecución
